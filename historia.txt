@@ -3,8 +3,5 @@ Tengo 25 años
 
 Estoy tomando el curso profesional de git y github
 
-Este es el primer cambio ALV
-
-Que chingue a su madre el america
-
-Hoy hablaremos de la historia de Daniel Davalos y so obra maestra
+Este es el primer cambio que se hace en el archivo 
+Hablaremos tambien sobre la vida de Daniel 
